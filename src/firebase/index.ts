@@ -5,10 +5,11 @@ import { AngularFireDatabaseModule } from 'angularfire2/database';
 
 
 const firebaseConfig = {
-  apiKey: 'AIzaSyDaEW83qAOozjJbbJP1YYbEHxxfFksdSHQ',
-  authDomain: 'ng2-todo-app.firebaseapp.com',
-  databaseURL: 'https://ng2-todo-app.firebaseio.com',
-  storageBucket: 'ng2-todo-app.appspot.com'
+    apiKey: 'AIzaSyBZ8mSjrAsV4MISJqDtJxv6qN6bfvOXLSo',
+    authDomain: 'nextstep-todo.firebaseapp.com',
+    databaseURL: 'https://nextstep-todo.firebaseio.com',
+    projectId: 'nextstep-todo',
+    storageBucket: 'nextstep-todo.appspot.com'
 };
 
 
